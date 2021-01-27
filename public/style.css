@@ -1,0 +1,51 @@
+h1 {
+    font-size: 38px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #4A4A4A;
+}
+
+label {
+    font-size: 16px;
+    font-family: Arial;
+    color: #4A4A4A;
+}
+
+input {
+    font-size: 16px;
+    font-family: Arial;
+    height: 36px;
+    width: 50%;
+    background-color: white;
+    border-width: 1px;
+    border-color: #0087AA;
+    color: #4A4A4A;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+textarea {
+    width: 50%;
+    height: 144px;
+    border-width: 1px;
+    border-color: #0087AA;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    resize: none;
+}
+
+#submit {
+    background-color: #0087AA;
+    color: white;
+    border: 0px;
+}
+
+#submit:hover {
+    background-color: #1997B7;
+}
+
+body {
+    background-color: #f1f1f1;
+    margin-left: 5%;
+    margin-top: 5%;
+}
